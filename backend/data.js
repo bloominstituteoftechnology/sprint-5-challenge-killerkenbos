@@ -199,3 +199,5 @@ module.exports = {
   mentors,
   learners,
 }
+let [bring] = learners
+console.log(bring)
